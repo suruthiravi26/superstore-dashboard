@@ -33,5 +33,5 @@ This project presents an interactive Sales Dashboard built using Power BI to ana
 3. Use filters to explore insights  
 
 ## Dashboard Preview
-![Dashboard](screenshot1.png)
-![Dashboard](screenshot2.png)
+(screenshot1.png)
+(screenshot2.png)
